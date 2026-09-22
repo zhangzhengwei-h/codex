@@ -1,6 +1,6 @@
 # codex（cattle-26fe7618）Workspace 索引
 
-> 由 ranch 自动生成的 workspace 内容快照（2026-09-22T02:06:30.184Z，500 个条目）。agent 注册/创建时刷新。
+> 由 ranch 自动生成的 workspace 内容快照（2026-09-22T11:57:26.978Z，500 个条目）。agent 注册/创建时刷新。
 
 ```
 - .codex/
