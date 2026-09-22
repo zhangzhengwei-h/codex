@@ -1,6 +1,6 @@
 # codex（cattle-26fe7618）工具列表
 
-> 由 ranch 自动生成（2026-09-22T12:47:26.995Z）。指引本成员具备的能力（注册上报的 capabilities）。
+> 由 ranch 自动生成（2026-09-22T14:02:27.008Z）。指引本成员具备的能力（注册上报的 capabilities）。
 
 ## Capabilities
 
